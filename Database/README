@@ -1,1 +1,12 @@
 These are the uploaded database for the project.
+The database for the website include the following (main)
+1.) Account
+2.) Timesheet 
+3.) Order
+4.) Customer
+
+The rest of the database will include 
+5.) ProductManagementDatabase
+6.) Documents
+7.) Inventory
+8.) Statistical Database
