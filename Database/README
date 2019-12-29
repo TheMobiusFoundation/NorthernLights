@@ -4,9 +4,9 @@ The database for the website include the following (main)
 2.) Timesheet 
 3.) Order
 4.) Customer
+5.) Inventory
 
 The rest of the database will include 
-5.) ProductManagementDatabase
-6.) Documents
-7.) Inventory
+6.) ProductManagementDatabase
+7.) Documents
 8.) Statistical Database
