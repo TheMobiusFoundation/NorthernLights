@@ -1,0 +1,62 @@
+== THINGS TO ADD ==
+In order to have a fully functional restaurant inventory management system we still need to resubmit our functional specification, testing specification, and project Gantt chart. What we need to add are the following contents:
+1.) Staff and Administrator Portal
+a.)
+   Barcode Scanner and
+   Product Registration
+   Product Name
+   Product Details
+   BarCode: (Random Generation) 
+   Recipe
+   Add Item      Quantity     Measurement         Cost 
+   Prep Forecasting
+   Pricing:
+   Waste %
+   Total Cost
+   Target Food Cost(%) 25
+   Suggested Pricing
+   Sales Price (Tax Include)
+2.) Document Scanner (Administrator Portal)
+Health Records
+-- Documents
+Business Documents
+-- Supplier Orders
+-- Food Orders
+-- Equipment Orders
+-- Assests Lists
+Food
+-- Documents
+
+3.) Sales Order (Administrator Portal)
+Orders Sent Today
+Orders Delivered Today
+Orders Sent this Month
+Orders Delivered this Month
+Print Reports
+
+4.) (Administrator and Staff Portal)
+Contacts
+Customers
+Suppliers
+
+5.) Reports (Administrator and Staff Portal)
+Sales Activity
+Year Sales Report
+Monthly Sales Report
+Todays Sales Report
+
+6.) Product Master List (Administrator and Staff(view only) Portal)
+
+7.) Statistics (Administrator Portal)
+Product Gross Margins
+Purchase Price
+Safety Stock
+
+8.) Settings (Administrator and Staff Portal)
+
+9.) Customer Promotion (Administrator Portal)
+
+10.) Point of Sales System. (Administrator and Staff Portal)
+
+
+
